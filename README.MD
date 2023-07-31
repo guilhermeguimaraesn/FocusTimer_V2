@@ -1,4 +1,4 @@
-<h1 align="center"> FocusTumer V2 </h1>
+<h1 align="center"> FocusTimer V2 </h1>
 
 <p align="center">
 Programa exclusivo do curso Explorer, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -13,7 +13,7 @@ Programa exclusivo do curso Explorer, promovido pela Rocketseat para ensino de t
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" href="https://guilhermeguimaraesn.github.io/Explorer-sem-limites/">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" href="https://guilhermeguimaraesn.github.io/FocusTimer_V2/">
 </p>
 
 <br>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O FocusTumer é um Timer desenvolvido em Javascript com possibilidade de alternar entre dark/light mode e música de fundo.
 
-- [Acesse o projeto finalizado, online](https://guilhermeguimaraesn.github.io/Explorer-sem-limites/)
+- [Acesse o projeto finalizado, online](https://guilhermeguimaraesn.github.io/FocusTimer_V2/)
 
 <!-- ## 🔖 Layout
 
